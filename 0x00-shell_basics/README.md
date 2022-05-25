@@ -11,4 +11,5 @@
 10-back changes working directory to the previous one
 11-lists lists all files inluding ones that start with . in the current directory and the parent of the working directory and the /boot directory in long format
 12-file_type prints the type of the file located in tmp called iamafile
+13-symbolic_link creates a symbolic link to /bin/ls called __ls__ which is created in the working directory
 
